@@ -1,0 +1,14 @@
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\bin\Debug\net6.0\HomeSales.exe
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\bin\Debug\net6.0\HomeSales.deps.json
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\bin\Debug\net6.0\HomeSales.runtimeconfig.json
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\bin\Debug\net6.0\HomeSales.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\bin\Debug\net6.0\HomeSales.pdb
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.AssemblyInfoInputs.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.AssemblyInfo.cs
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.csproj.CoreCompileInputs.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\refint\HomeSales.dll
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.pdb
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\HomeSales.genruntimeconfig.cache
+C:\Users\addis\OneDrive - Hillsborough Community College\Semester 3 (year 2)\COP-2360 (Programing in C#)\Module 4 - Excercise 4.2\HomeSales\obj\Debug\net6.0\ref\HomeSales.dll
